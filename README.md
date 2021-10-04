@@ -13,3 +13,8 @@ To run the application
 node app.js
 ```
 
+Test the application using the following urls:
+http://localhost:3000/sw/hello
+http://localhost:3000/sw/rewrite
+http://localhost:3000/sw/redirect
+http://localhost:3000/sw/setheaders
