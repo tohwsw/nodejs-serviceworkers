@@ -18,3 +18,6 @@ http://localhost:3000/sw/hello
 http://localhost:3000/sw/rewrite
 http://localhost:3000/sw/redirect
 http://localhost:3000/sw/setheaders
+
+
+To create this on AWS using terraform, run terraform apply on main.tf
